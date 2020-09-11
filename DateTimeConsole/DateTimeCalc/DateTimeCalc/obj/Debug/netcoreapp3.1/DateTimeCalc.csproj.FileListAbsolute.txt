@@ -1,0 +1,13 @@
+C:\Users\Birat\Desktop\visual code\DateTimeConsole\DateTimeCalc\DateTimeCalc\bin\Debug\netcoreapp3.1\DateTimeCalc.exe
+C:\Users\Birat\Desktop\visual code\DateTimeConsole\DateTimeCalc\DateTimeCalc\bin\Debug\netcoreapp3.1\DateTimeCalc.deps.json
+C:\Users\Birat\Desktop\visual code\DateTimeConsole\DateTimeCalc\DateTimeCalc\bin\Debug\netcoreapp3.1\DateTimeCalc.runtimeconfig.json
+C:\Users\Birat\Desktop\visual code\DateTimeConsole\DateTimeCalc\DateTimeCalc\bin\Debug\netcoreapp3.1\DateTimeCalc.runtimeconfig.dev.json
+C:\Users\Birat\Desktop\visual code\DateTimeConsole\DateTimeCalc\DateTimeCalc\bin\Debug\netcoreapp3.1\DateTimeCalc.dll
+C:\Users\Birat\Desktop\visual code\DateTimeConsole\DateTimeCalc\DateTimeCalc\bin\Debug\netcoreapp3.1\DateTimeCalc.pdb
+C:\Users\Birat\Desktop\visual code\DateTimeConsole\DateTimeCalc\DateTimeCalc\obj\Debug\netcoreapp3.1\DateTimeCalc.csprojAssemblyReference.cache
+C:\Users\Birat\Desktop\visual code\DateTimeConsole\DateTimeCalc\DateTimeCalc\obj\Debug\netcoreapp3.1\DateTimeCalc.AssemblyInfoInputs.cache
+C:\Users\Birat\Desktop\visual code\DateTimeConsole\DateTimeCalc\DateTimeCalc\obj\Debug\netcoreapp3.1\DateTimeCalc.AssemblyInfo.cs
+C:\Users\Birat\Desktop\visual code\DateTimeConsole\DateTimeCalc\DateTimeCalc\obj\Debug\netcoreapp3.1\DateTimeCalc.csproj.CoreCompileInputs.cache
+C:\Users\Birat\Desktop\visual code\DateTimeConsole\DateTimeCalc\DateTimeCalc\obj\Debug\netcoreapp3.1\DateTimeCalc.dll
+C:\Users\Birat\Desktop\visual code\DateTimeConsole\DateTimeCalc\DateTimeCalc\obj\Debug\netcoreapp3.1\DateTimeCalc.pdb
+C:\Users\Birat\Desktop\visual code\DateTimeConsole\DateTimeCalc\DateTimeCalc\obj\Debug\netcoreapp3.1\DateTimeCalc.genruntimeconfig.cache
